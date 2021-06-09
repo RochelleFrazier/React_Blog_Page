@@ -10,7 +10,7 @@ const Navbar = () => {
       }
     >
       <a className={"navbar-brand"} href="#">
-        <img className={styles.img} src="#" alt="Real Estate logo" />
+       <!-- <img className={styles.img} src="#" alt="Real Estate logo" /> -->
         <a className={styles.logoname + " ml-1 mb-1"}>The Real Estate Blog</a>
       </a>
 
