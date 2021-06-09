@@ -68,7 +68,7 @@ const Footer = () => {
         </div>
       </section>
       <div className={styles.copyright + " col-lg-12 text-center  "}>
-        <h5> 2021 EZCAZA.COM | ALL RIGHTS RESERVED</h5>
+        <h5> 2021 The Real Estate Blog by Rochelle Frazier | ALL RIGHTS RESERVED</h5>
       </div>
     </div>
   );
