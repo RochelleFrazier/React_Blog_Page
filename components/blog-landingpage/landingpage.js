@@ -7,7 +7,7 @@ const LandingPage = () => {
     <section className={styles.landingimage}>
       <div className={styles.landingtext}>
         {/* <h1 className={styles.slogan}>
-          Ezcaza<br></br> Blog
+          The Real Estate Blog
         </h1> */}
         {/* <h1 className={styles.slogan2}>Blog</h1> */}
       </div>
