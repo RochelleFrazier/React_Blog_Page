@@ -1,0 +1,30 @@
+/* footer */
+
+.footer {
+  background-color: #9e81aa;
+  /* background-image: url("https://www.transparenttextures.com/patterns/white-sand.png"); */
+  background-image: url(/footer.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  height: 120vh;
+  width: 100%;
+}
+
+.footer h5 {
+  color: #fff;
+  margin-bottom: 30px;
+  font-family: "Raleway", sans-serif;
+}
+.footer a {
+  color: #fff;
+  font-family: "Raleway", sans-serif;
+}
+
+.copyright h5 {
+  color: #fff !important;
+  font-family: "Raleway", sans-serif;
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}

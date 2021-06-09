@@ -1,0 +1,27 @@
+.navbar {
+  position: fixed;
+  height: 10vh;
+  width: 100%;
+  transition: top 0.6s;
+  z-index: 500;
+  padding-top: 20px;
+  font-family: "Raleway", sans-serif;
+}
+.link a {
+  font-size: small;
+}
+
+.logoname {
+  color: #9e81aa;
+  font-size: large;
+}
+
+.img {
+  /* height: 20vmin;
+  width: auto; */
+  width: auto;
+  height: 5vmin;
+  /* Recommended - Limit maximum width */
+  max-width: 400px;
+  margin-bottom: 15px;
+}

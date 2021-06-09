@@ -1,0 +1,50 @@
+.btn {
+  background-color: rgb(158, 129, 170) !important;
+  color: #fff;
+  font-family: "Raleway", sans-serif !important;
+}
+.btn a {
+  background-color: rgb(158, 129, 170) !important;
+}
+
+.hr {
+  width: 100%;
+  border: 1px solid #000;
+}
+.footer {
+  background-color: #fff;
+}
+
+.a {
+  color: #9e81aa;
+}
+
+.headshot {
+  float: left;
+  background-color: rgb(158, 129, 170);
+  height: 15vh;
+}
+.back {
+  margin-top: 25px;
+  width: 100%;
+  max-width: 1200px;
+  color: #00a395;
+  font-family: "raleway", san-serif;
+  text-align: center;
+}
+.back a:hover {
+  border-top: 1px solid rgb(158, 129, 170);
+  border-bottom: 1px solid rgb(158, 129, 170);
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+.back a:link {
+  text-decoration: none;
+}
+.content {
+  background-color: #fff;
+  padding: 5px 30px 30px 30px;
+  opacity: 0.9;
+  margin: auto;
+  float: left;
+}

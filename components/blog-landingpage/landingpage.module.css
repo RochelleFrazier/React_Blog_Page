@@ -1,0 +1,46 @@
+.nav {
+  border-top: black 2px solid;
+}
+.landingimage {
+  background-image: url("/landingimage_homeimprovement.jpg");
+  height: 81vh;
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  background-attachment: fixed;
+
+  /* z-index: 0; */
+}
+
+.landingtext {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  text-align: center;
+  color: #fff;
+  width: 100%;
+  /* margin-top: 50px; */
+  font-family: "Raleway", sans-serif;
+  /* background-color: rgb(142, 125, 110, 0.5); */
+}
+.slogan {
+  font-family: "Raleway", sans-serif;
+  font-size: 9vw;
+  text-align: center;
+  color: #fff;
+  font-weight: bolder;
+  letter-spacing: 7px;
+  border: none;
+  background: -webkit-linear-gradient(#9e81aa, #9e81fd);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.slogan2 {
+  color: #400056;
+  border: none;
+  font-size: 9vw;
+  font-family: "Raleway", sans-serif;
+}

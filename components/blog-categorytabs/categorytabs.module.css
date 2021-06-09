@@ -1,0 +1,15 @@
+.nav {
+  margin-top: 50px;
+  padding-top: 25px;
+}
+
+.btn {
+  color: red;
+}
+
+.center li a:hover {
+  text-decoration: underline 2px;
+  text-decoration-color: rgb(158, 129, 170);
+  text-underline-position: under;
+  text-decoration-style: solid 5px;
+}
