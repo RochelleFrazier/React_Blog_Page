@@ -10,8 +10,8 @@ const Navbar = () => {
       }
     >
       <a className={"navbar-brand"} href="#">
-        <img className={styles.img} src="/logoori_30.png" alt="ezcaza logo" />
-        <a className={styles.logoname + " ml-1 mb-1"}>Ezcaza University</a>
+        <img className={styles.img} src="#" alt="Real Estate logo" />
+        <a className={styles.logoname + " ml-1 mb-1"}>The Real Estate Blog</a>
       </a>
 
       <ul className={"navbar-nav ml-auto"}>
